@@ -1,0 +1,15 @@
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\bin\Debug\Lab1.exe
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\bin\Debug\Lab1.pdb
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\obj\Debug\MainWindow.g.cs
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\obj\Debug\App.g.cs
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\obj\Debug\Lab1_MarkupCompile.cache
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\obj\Debug\Lab1_MarkupCompile.lref
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\obj\Debug\MainWindow.baml
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\obj\Debug\Lab1.g.resources
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\obj\Debug\Lab1.exe
+C:\Users\W7334140\source\repos\Lecture4-Labs\Lab1\obj\Debug\Lab1.pdb
